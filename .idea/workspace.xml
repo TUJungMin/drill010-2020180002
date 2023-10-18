@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f569fc-9b5e-41cc-bb0b-9c85d33ba42d" name="Changes" comment="상태 다이어그램 삽입" />
+    <list default="true" id="33f569fc-9b5e-41cc-bb0b-9c85d33ba42d" name="Changes" comment="starter prepared">
+      <change afterPath="$PROJECT_DIR$/game_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boy.py" beforeDir="false" afterPath="$PROJECT_DIR$/boy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/control_boy.py" beforeDir="false" afterPath="$PROJECT_DIR$/control_boy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grass.py" beforeDir="false" afterPath="$PROJECT_DIR$/grass.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/곽정민/Desktop/2D_GP/Drill009",
+    "last_opened_file_path": "C:/Users/곽정민/Desktop/2D_GP/Drill010",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -90,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697024876927</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="starter prepared">
+      <option name="closed" value="true" />
+      <created>1697618123774</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697618123774</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,12 +127,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="starter prepared" />
     <MESSAGE value="수업 시간까지 나간거 저장 ,과제 시작" />
     <MESSAGE value="a키를 누르면 5초동안 자동 움직이기는 완료 ,but 벽에 닿기 전까지는 애니메이션 실행 안됨 ㅠ" />
     <MESSAGE value="크기랑 속도 조절 완료" />
     <MESSAGE value="완성" />
     <MESSAGE value="상태 다이어그램 삽입" />
-    <option name="LAST_COMMIT_MESSAGE" value="상태 다이어그램 삽입" />
+    <MESSAGE value="starter prepared" />
+    <option name="LAST_COMMIT_MESSAGE" value="starter prepared" />
   </component>
 </project>
